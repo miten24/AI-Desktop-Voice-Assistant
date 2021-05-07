@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac4c715a-0a42-4040-b646-4cf53d70ff5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assistant.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/News.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTubeDownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakeids.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame246.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame261.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame264.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame273.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame274.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame276.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame281.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame282.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame285.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame289.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame299.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame307.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame311.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame315.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame317.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame318.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame324.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame325.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame330.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame331.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame334.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame336.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame341.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame343.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame345.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame346.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame347.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame348.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame352.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame355.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame357.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame361.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame362.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame363.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame364.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame367.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame368.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame369.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame371.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame372.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame373.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame374.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame375.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame376.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame377.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame378.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame381.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame382.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame383.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame384.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame385.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame388.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame393.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame394.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame395.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame397.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame399.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame401.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame403.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame405.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame407.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame408.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame411.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame412.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame416.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame419.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame425.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame427.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame428.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame429.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame430.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame431.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame432.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame433.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame435.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame437.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame441.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame442.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame445.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame447.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame449.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame450.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame453.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame454.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame457.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame458.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame459.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame464.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame466.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame467.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame468.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame469.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame470.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame471.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame473.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame474.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame476.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame478.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame481.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame482.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame483.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame485.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame486.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame487.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame489.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame491.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame492.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame493.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame494.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame498.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame502.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame503.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame504.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame508.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame509.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame510.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame511.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame518.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame524.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame525.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame527.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame530.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame531.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame532.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame534.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame535.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame537.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/frame99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/youtube-ios-app.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarvis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarvis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pywhatkit_dbs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assistant.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assistant.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assistant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailAttachment.py" beforeDir="false" afterPath="$PROJECT_DIR$/EmailAttachment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailMessage.py" beforeDir="false" afterPath="$PROJECT_DIR$/EmailMessage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emailpass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Emailpass.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FBLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/FBLogin.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1QTClcMmV3vRupBRQHNc055AbJK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assistant.py" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Darshita\Desktop\Sem 6\SGP\18ce113" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jarvis">
+    <configuration name="EmailAttachment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EmailAttachment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EmailMessage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EmailMessage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FBLogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FBLogin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="diction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jarvis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jarvis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.EmailAttachment" />
+      <item itemvalue="Python.EmailMessage" />
+      <item itemvalue="Python.FBLogin" />
+      <item itemvalue="Python.diction" />
+      <item itemvalue="Python.jarvis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jarvis" />
+        <item itemvalue="Python.diction" />
+        <item itemvalue="Python.FBLogin" />
+        <item itemvalue="Python.EmailAttachment" />
+        <item itemvalue="Python.EmailMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac4c715a-0a42-4040-b646-4cf53d70ff5a" name="Default Changelist" comment="" />
+      <created>1567785350630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567785350630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
